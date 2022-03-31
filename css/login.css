@@ -1,0 +1,46 @@
+body {
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    background-color: blanchedalmond;
+    height: 100vh;
+    overflow: hidden;
+}
+
+html,
+body {
+    display: grid;
+    height: 50%;
+    place-items: center;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+.center {
+    width: 430px;
+    margin: auto;
+    position: relative;
+}
+
+.center form {
+    position: absolute;
+    background-color: aliceblue;
+    width: 55%;
+    padding: 0 10px;
+}
+
+form input {
+    height: 50px;
+    width: 90%;
+    padding: 0 10px;
+    border-radius: 3px;
+    border: 1px solid silver;
+    font-size: 18px;
+    outline: none;
+}
+
+form input[type="username"] {
+    margin-top: 20px;
+}

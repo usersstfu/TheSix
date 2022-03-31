@@ -1,0 +1,13 @@
+body{
+text-align: center;
+height: auto;
+place-items: center;
+background-color: rgb(145, 223, 226);
+}
+h1{
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+}
+
+
