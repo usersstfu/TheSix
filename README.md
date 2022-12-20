@@ -4,5 +4,5 @@
 
 ## About Gassin
 Website Berbasis Local Storage PHP untuk dapat menambahkan berita atau pengumuman yang diinputkan didalam
-halama Admin, data akan tertampil dihalaman Pengumuman. Tugas ini dikerjakan untuk kelulusan responsi
+halama Admin dan data akan tertampil dihalaman Pengumuman. Tugas ini dikerjakan untuk tolak ukur kelulusan responsi
 praktikum Pemrograman Web dan Mobile I.
